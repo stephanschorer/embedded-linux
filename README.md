@@ -11,8 +11,8 @@ Zusätzlich habe ich in den einzelnen Kapiteln die von mir verwendeten externen 
 Als Hardware habe ich einen Raspberry Pi 4b verwendet.
 
 
-## Übersicht der einzelnen Kapiteln
-| Kapitel | Inhalt |
+## Übersicht der einzelnen Kapitel:
+|  Kapitel  | Inhalt |
 |------------------|--------------------|
 | [Chapter 1-2](docs/chapter1-2.md) | Inbetriebnahme des Boards, Serielle Schnittstelle einrichten, GCC Cross Toolchain installieren |
 | [Chapter 3](docs/chapter3.md) | u-boot kompilieren, u-boot shell |
